@@ -7,16 +7,16 @@
 }
 
 *::selection{
-    background-color: rgb(144, 245, 184);
+    background-color: rgb(130, 195, 238);
 }
 
 body{
-    background: linear-gradient(90deg,#fdf8f3,#f0efea,#e9e5e2); 
+    background: linear-gradient(90deg,#97e6f1,#84e6ee,#8deef7); 
 }
 
 .home-content{
     padding: 20px;
-    background: linear-gradient(90deg,#c6eaf0a1,#90dce3,#33e3e9); 
+    background: linear-gradient(90deg,#efa276a1,#f4b78a,#f9a97b); 
     min-height: 100vh;
 }
 
@@ -40,7 +40,7 @@ body{
     position: relative;
     margin:15px;
     overflow: hidden;
-    border: 2px solid #2ce0c5;
+    border: 2px solid #3ac6e2;
     border-radius: 10px;
     cursor:pointer;
     width:400px;
