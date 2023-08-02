@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Orbitron&family=Oswald:wght@300&family=Poppins:wght@400;700&family=Roboto:wght@400;700&family=Teko:wght@300&display=swap');
 
-/* font-family: 'Bebas Neue', cursive;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Orbitron', sans-serif;
-font-family: 'Oswald', sans-serif;
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Teko', sans-serif; */
-
 :root {
     --primary-text-color: #BAC7BE;
     --secondary-text-color: #C2E1C2;
@@ -75,11 +67,6 @@ a{
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
 }
-
-
-/* Utility Classes end*/
-
-
 
 
 .hero-section {
